@@ -1,0 +1,44 @@
+<ArrayList>
+    <item>
+        <studentId>1</studentId>
+        <name>Jakub</name>
+        <surname>Krueger</surname>
+        <age>18</age>
+        <description>A good boy.</description>
+    </item>
+    <item>
+        <studentId>2</studentId>
+        <name>Frank</name>
+        <surname>Olsen</surname>
+        <age>20</age>
+        <description>A very good boy.</description>
+    </item>
+    <item>
+        <studentId>3</studentId>
+        <name>Savanna</name>
+        <surname>Pearson</surname>
+        <age>18</age>
+        <description>Couldn't pass finals</description>
+    </item>
+    <item>
+        <studentId>4</studentId>
+        <name>Radhika</name>
+        <surname>Montes</surname>
+        <age>0</age>
+        <description>She's dating the gangster</description>
+    </item>
+    <item>
+        <studentId>5</studentId>
+        <name>Tom</name>
+        <surname>Jerry</surname>
+        <age>16</age>
+        <description>Is he a cat or a mouse?</description>
+    </item>
+    <item>
+        <studentId>6</studentId>
+        <name>Luke</name>
+        <surname>Welsh</surname>
+        <age>21</age>
+        <description>Works in local store</description>
+    </item>
+</ArrayList>
